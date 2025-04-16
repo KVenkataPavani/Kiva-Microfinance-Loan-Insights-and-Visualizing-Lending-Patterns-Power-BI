@@ -1,4 +1,5 @@
 # Microfinance-Loan-Insights-and-Visualizing-Lending-Patterns-Power-BI
+![Dashboard](Kiva_Microfinance_Loan_Insights_and_Visualizing_Lending_Patterns.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
